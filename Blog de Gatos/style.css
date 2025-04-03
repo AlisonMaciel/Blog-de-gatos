@@ -115,6 +115,10 @@ header img:hover {
   margin: 3.1rem 0rem;
 }
 
+.teste button {
+  background: transparent;
+}
+
 .padding {
   margin-left: 2.2rem;
 }
